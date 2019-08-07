@@ -1,0 +1,6 @@
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\bin\Debug\DBTable.dacpac
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\bin\Debug\DBTable.dll
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\bin\Debug\DBTable.pdb
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\obj\Debug\DBTable.sqlprojAssemblyReference.cache
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\obj\Debug\DBTable.dll
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DBTable\obj\Debug\DBTable.pdb

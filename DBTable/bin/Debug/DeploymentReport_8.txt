@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Address]
+       [dbo].[User]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[User] (Default Constraint)
+     Table rebuild
+       [dbo].[Address] (Table)
+       [dbo].[User] (Table)
+     Create
+       [dbo].[spAddress_Insert] (Procedure)
+       [dbo].[spUser_Insert] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Address_ToUser] (Foreign Key)
+     Create
+       [dbo].[FK_Address_ToUser] (Foreign Key)

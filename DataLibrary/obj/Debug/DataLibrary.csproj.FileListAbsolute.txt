@@ -1,0 +1,9 @@
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Jacques\Desktop\Singular\SingularPracticalTest\DataLibrary\obj\Debug\DataLibrary.pdb
